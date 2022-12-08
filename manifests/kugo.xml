@@ -13,8 +13,4 @@
     <project path="device/sony/common" name="device-sony-common" revision="n-mr1-ubports" remote="beidl" />
     <project path="device/sony/common-init" name="device-sony-common-init" revision="n-mr1-ubports" remote="beidl" />
     <project path="system/core" name="Halium/android_system_core" groups="pdk" remote="hal" revision="halium-7.1-adbroot" />
-
-    <project path="device/sony/kugo" name="android_device_google_bonito" remote="beidl" />
-    <project path="kernel/sony/kugo" name="android_kernel_google_bonito" remote="beidl" />
-    <project path="vendor/sony" name="proprietary_vendor_google" remote="beidl" />
-</manifest>
+   
